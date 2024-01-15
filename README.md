@@ -8,4 +8,4 @@ El programa ayuda a ver las paradas del autobus desde el MIT hasta HARVARD
 ## How to run
 Solo descargue el index para interacturar con el programa que lo deja ver todas las paradas del autobus del MIT hasta HARVARD
 ## Licencia
-[Licencia MIT](https://github.com/Scripta-jortiz/Eyes-Exercise?tab=MIT-1-ov-file)
+[Licencia MIT](https://github.com/Scripta-jortiz/Bus-Excersice?tab=MIT-1-ov-file)
